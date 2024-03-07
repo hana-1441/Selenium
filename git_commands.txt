@@ -1,0 +1,17 @@
+>>>>>>>>>Git usefull Commands 
+
+>>to check remote URL Config :
+
+$ git remote -v
+
+>> to fetch latest changes from URL : 
+
+$ git fetch origin
+
+>>to merge chnages to local branch : 
+
+$ git merge master
+
+>>to force push on repo : (use if push not work & got error of ![rejected]) 
+
+$ git push -f origin master
